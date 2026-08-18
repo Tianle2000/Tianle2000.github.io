@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, Electrical & Computer Engineering, <a href='https://www.tamu.edu'>Texas A&M University</a>. Robot learning · manipulation · real hardware.
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Tianle Zhang, a PhD student in Electrical and Computer Engineering at Texas A&M University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I work on vision-language-action models and diffusion policies for robot manipulation — and specifically on making them work outside of simulation. I build the full stack: RGB-D perception, ROS 2 integration, and policy deployment on a FANUC industrial arm, with training on H100 and A100 GPU clusters. Most of what I find interesting lives in the gap between a policy that scores well on a benchmark and one that survives contact with a real robot.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently looking for a Summer 2027 research internship in robot learning, manipulation, or motion planning. The fastest way to reach me is [email] — my CV is [here], and code for my projects is on [GitHub].

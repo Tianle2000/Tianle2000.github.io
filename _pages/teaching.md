@@ -1,15 +1,27 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description: Courses and educational outreach programs I have taught or mentored.
 nav: true
-nav_order: 6
-calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Texas A&M University
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Course Instruction
 
-{% include courses.liquid %}
+* **MMET 383 — Manufacturing Information Systems (Lab Instructor)**
+  * *Academic Year 2026 – 2027*
+  * Led hands-on laboratory sessions covering IT applications for manufacturing enterprises, including Computer-Integrated Manufacturing (CIM), databases, networking, and Enterprise Resource Planning (ERP) systems.
+
+* **MMET 410 — Manufacturing Automation and Robotics (Lab Instructor)**
+  * *Academic Year 2026 – 2027*
+  * Directed practical labs on industrial robotics, automated handling hardware, Programmable Logic Controllers (PLCs), robot programming, equipment control interfacing, and manufacturing work cell integration.
+
+---
+
+### Educational Outreach & Mentorship
+
+* **Machine Learning for K-12 Education (Lead Instructor / Mentor)**
+  * *Summer 2025 & Summer 2026*
+  * Developed and delivered workshop modules on applying Machine Learning (ML) concepts and tools for K-12 students and educators.

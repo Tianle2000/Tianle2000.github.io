@@ -8,4 +8,6 @@ nav: false
 
 ## Course Materials & Resources
 
-* [<i class="fa-brands fa-youtube" style="color: #ff0000;"></i> **Lab 1: Introduction Video**](https://youtu.be/I3lbeQaeP5c)
+* **Lab 1: Introduction to Manufacturing Systems**
+  * [<i class="fa-brands fa-youtube" style="color: #ff0000;"></i> **Video Tutorial**](https://youtu.be/I3lbeQaeP5c)
+  * [<i class="fa-solid fa-file-pdf"></i> **Lab 1 Slides (PDF)**]({{ '/assets/teaching/mmet383/lab1.pdf' | relative_url }})

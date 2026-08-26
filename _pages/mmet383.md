@@ -8,4 +8,4 @@ nav: false
 
 ## Course Materials & Resources
 
-* [<i class="fa-brands fa-youtube" style="color: #ff0000;"></i> **Lab 0: Introduction Video**](https://youtu.be/I3lbeQaeP5c)
+* [<i class="fa-brands fa-youtube" style="color: #ff0000;"></i> **Lab 1: Introduction Video**](https://youtu.be/I3lbeQaeP5c)

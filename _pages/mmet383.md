@@ -10,4 +10,4 @@ nav: false
 
 * **Lab 1:**
   * [<i class="fa-brands fa-youtube" style="color: #ff0000;"></i> **Video Tutorial**](https://youtu.be/I3lbeQaeP5c)
-  * [<i class="fa-solid fa-file-pdf"></i> **Lab 1 Slides (PDF)**]({{ '/assets/teaching/mmet383/lab1.pdf' | relative_url }})
+  *[Lab 1:]({{ '/assets/teaching/mmet410/lab1.pdf' | relative_url }})

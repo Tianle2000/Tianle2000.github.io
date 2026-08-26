@@ -6,7 +6,6 @@ permalink: /teaching/mmet383/
 nav: false
 ---
 
-## Course Slides & Resources
+## Course Materials & Resources
 
-* [Lecture 1: Introduction to CIM]({{ '/assets/pdf/mmet383/lecture1.pdf' | relative_url }})
-* [Lab 1: ERP Systems Overview]({{ '/assets/pdf/mmet383/lab1.pdf' | relative_url }})
+* [<i class="fa-brands fa-youtube" style="color: #ff0000;"></i> **Lab 0: Introduction Video**](https://youtu.be/I3lbeQaeP5c)

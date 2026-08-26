@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Electrical & Computer Engineering, <a href='https://www.tamu.edu'>Texas A&M University</a>. Robot learning · manipulation · real hardware.
+subtitle: PhD Student, Electrical & Computer Engineering, <a href='https://www.tamu.edu'>Texas A&M University</a>. Robotic · Manipulation · Comupter vision.
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>College Station, Texas 77840</p>
 
 selected_papers: true # 开启精选论文（Selected Publications）
-social: true # 开启底部社交图标
+social: false # 开启底部社交图标
 
 announcements:
   enabled: false # 👈【改动 1】设为 false，彻底关掉 news 板块

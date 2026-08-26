@@ -8,5 +8,5 @@ nav: false
 
 ## Course Slides & Resources
 
-* [Lab 1: PLC Basics & Setup]({{ '/assets/pdf/mmet410/lab1.pdf' | relative_url }})
-* [Lab 2: Robot Programming]({{ '/assets/pdf/mmet410/lab2.pdf' | relative_url }})
+* [Lab 1:]({{ '/assets/pdf/mmet410/lab1.pdf' | relative_url }})
+*

@@ -9,4 +9,4 @@ nav: false
 ## Course Slides & Resources
 
 * [Lab 1:]({{ '/assets/teaching/mmet410/lab1.pdf' | relative_url }})
-*
+* [Lab 2:]({{ '/assets/teaching/mmet410/MMET 410 - Lab 2.pdf' | relative_url }})

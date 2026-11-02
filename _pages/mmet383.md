@@ -18,5 +18,4 @@ nav: false
 * **Lab 6:** [Lab 6 PDF]({{ '/assets/teaching/mmet383/lab6.pdf' | relative_url }})
 * **Lab 7:** [Lab 7 PDF]({{ '/assets/teaching/mmet383/lab7.pdf' | relative_url }})
 * **Lab 8:** [Lab 8 PDF]({{ '/assets/teaching/mmet383/lab8.pdf' | relative_url }})
-* **Lab 9:** [Lab 9 PDF]({{ '/assets/teaching/mmet383/lab9.pdf' | relative_url }})
-* **Lab 10:** [Lab 10 PDF]({{ '/assets/teaching/mmet383/lab10.pdf' | relative_url }})
+* **Lab 11:** [Lab 10 PDF]({{ '/assets/teaching/mmet383/lab11.pdf' | relative_url }})

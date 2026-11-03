@@ -18,3 +18,4 @@ nav: false
 * [Lab 8:]({{ '/assets/teaching/mmet410/lab8.pdf' | relative_url }})
 * [Lab 9:]({{ '/assets/teaching/mmet410/lab9.pdf' | relative_url }})
 * [Lab 10:]({{ '/assets/teaching/mmet410/lab10.pdf' | relative_url }})
+* [Lab 11:]({{ '/assets/teaching/mmet410/lab11.pdf' | relative_url }})
